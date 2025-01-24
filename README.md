@@ -3,7 +3,7 @@ An engaging React-based timer game where users can test their reflexes and timin
 
 
 ## Live Demo
-👉 [Live Demo on Netlify](https://game-of-time.netlify.app/)
+Check out the live version of this project here: 👉 [Live Demo on Netlify](https://game-of-time.netlify.app/)
 
 
 # Features
