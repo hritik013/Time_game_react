@@ -1,11 +1,18 @@
 # Timer Challenge Game ⏱️
 An engaging React-based timer game where users can test their reflexes and timing skills across various difficulty levels. Personalize your experience by setting your name, and challenge yourself to stop the timer as close to the target time as possible!
 
+
+## Live Demo
+👉 [Live Demo on Netlify](https://game-of-time.netlify.app/)
+
+
 # Features
 ### Player Personalization:
    Enter your name, and it will be displayed throughout your game experience.
-  Difficulty Levels:
+ #### Difficulty Levels:
+ 
  Multiple challenges with different target times:
+ 
 • Easy 😮‍💨: 1 second
 
 • Not Easy 🤔: 5 seconds
